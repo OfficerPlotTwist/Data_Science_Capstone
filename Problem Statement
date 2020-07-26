@@ -1,0 +1,24 @@
+Problem Statement Worksheet (Hypothesis formulation)
+
+
+1. Context Why are you working on this problem?
+* The new lift needs a valuation on the amount of money it generates for the park, and looking at data from ski resorts across the country is a good way to see how ski lift utility for each park predicts revenue 
+2. Criteria for success What will make this work successful?
+   1. How does changing ski lift utility in Big Mountain Resort shift it in marketspace, how much more money should that make?
+   2. To succeed the lift needs to generate an estimated $1.681.680 in revenue (operating cost, plus 9.5 percent target profit) 
+3. Scope of the solution space What is the focus of the business initiative; What items are you focusing on exclusively
+   1. Look at data from ski resorts, focus on number of lifts, skiable terrain + vertical drop as it relates to seasonal ticket sales as a metric for 'utility' added by each lift
+4. Constraints of the solution space What constraints may prevent the initiative from succeeding?
+   1. Ticket sales have factors independent of number of lifts, i.e. an individual's proximity to the resort, advertising efforts, price of a lift ticket. If maintaining 9.5% profit margin requires changing lift ticket prices, this could adversely affect revenue. Also if the lifts have a positive increase in reputation to the park, this added revenue may not be seen until later in the season; next season.
+5. Stakeholders to provide key insight who needs to be involved in the project? Where will you source data? Who will be presented recommendations?
+   1. Jimmy Blackburn- Director of operations
+   2. Alesha Eisen- Database Manager
+6. Key Data Sources What key pieces of data are needed to answer questions related to solving the problem?
+   1. AdultWeekday and AdultWeekend chairlift ticket costs 
+   2. projected days open
+   3. days open last year
+   4. Region of resorts
+   5. Number of chairs in parks + Skiable Terrain + number of trams + fast quads, fast triples
+      1. these combined should allow for the creation of a metric which approximates the 'utility' of each lift
+   6. vertical drop
+   7. number of runs
